@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/UndergroundTemple.unity
-    guid: 4a4b5e2141fff4e419f6edc141b5cf4d
-  - enabled: 1
     path: Assets/Menu.unity
     guid: fac886e13218577438b6d9228515555d
+  - enabled: 1
+    path: Assets/UndergroundTemple.unity
+    guid: 4a4b5e2141fff4e419f6edc141b5cf4d
   m_configObjects: {}
